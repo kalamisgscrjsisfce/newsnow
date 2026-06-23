@@ -65,7 +65,7 @@ export function Menu() {
                     </li>
                   ))}
               {/* <ThemeToggle /> */}
-              <li onClick={() => window.open("https://github.com")} className="cursor-pointer [&_*]:cursor-pointer transition-all">
+              <li onClick={() => window.open("https://baidu.com")} className="cursor-pointer [&_*]:cursor-pointer transition-all">
                 <span className="i-ph:github-logo-duotone inline-block" />
                 <span>Star on Github </span>
               </li>
