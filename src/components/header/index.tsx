@@ -19,7 +19,8 @@ function GoTop() {
 
 function Github() {
   return (
-    <button type="button" title="Github" className="i-ph:github-logo-duotone btn" onClick={() => window.open("https://baidu.com")} />
+    <button type="button" title="Github" className="i-ph:link-duotone
+ btn" onClick={() => window.open("https://baidu.com")} />
   )
 }
 
