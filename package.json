@@ -9,7 +9,7 @@
     "email": "123456789@gmail.com",
     "name": "NB"
   },
-  "homepage": "https://baidu.com",
+  "homepage": "https://www.baidu.com",
   "scripts": {
     "dev": "npm run presource && cross-env NODE_OPTIONS=--use-env-proxy vite dev",
     "build": "npm run presource && vite build",
